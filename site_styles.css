@@ -1,0 +1,185 @@
+
+
+.site_header{
+height:400px;font-size:40px;
+text-align:center;
+background-image:url(1.jpg);
+background-size:cover;
+color:white;
+}
+.utility{
+	text-align:center;
+	color: #ffffff;
+	background-color:#01091f;
+	font-size:18px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.mainutility{
+	text-align:center;
+	color: #ffffff;
+	background-color:#01091f;
+	font-size:18px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.utility2{
+font-size:22px;
+margin-top:10px;
+margin-bottom:5px
+}
+/*-----------------HEADER START--------------------*/
+.site_h1,.search,.u3{display:inline-block;color:white;}
+.site_h1{
+	width:35%;
+text-align:center;font-size:50px;
+}
+.u3{
+width:30%;font-size:26px;
+word-spacing:10px;
+text-align:left;
+}
+
+.search{width:30%;
+text-align:right;	
+}
+
+/*-----------------HEADER END--------------------*/
+
+
+/*-----------------TITLES--------------------*/
+.section_title{
+text-align:center;
+font-size:40px;
+padding:25px;
+}
+/*----------------- --------------------*/
+
+
+
+/*-----------------POPULAR  TOPICS--------------------*/
+
+.section_body{margin-bottom:40px;}
+.pop_item{
+float:left;margin-left:10px;margin-right:10px;
+height:400px;
+display:inline-block;
+width:25%;
+}
+.pop_item_title{font-weight:bolder;
+font-size:25px;
+text-align:center}
+.pop_item_date{
+font-size:15px;
+text-align:center;color:lightgray;}
+.pop_item_intro{font-weight:bolder;font-size:20px;
+text-align:justify}
+.pop_item_img{text-align:center;width:100%;
+height:50%;
+background-size:cover;}
+/*----------------- -------------------*/
+.
+
+.utility1{
+	display:inline-block;
+font-size:22px;
+margin-top:10px;
+margin-bottom:5px;padding:10px;
+}
+
+.utility2 i {margin-left:5px;margin-right:5px;}
+
+
+.brdr{border-style:solid;
+border-width:2px;
+border-color:lightblue;}
+
+.left{float:left;width:70%;}
+
+.right{float:left;width:25%;
+padding-top:40px;
+}
+.sidebar{
+	height:;
+	padding:20px;
+	line-height:25px;
+	border:solid 4px #38afea;
+
+}
+/*-----------------NAVBAR--------------------*/
+.navbar{text-align:center;padding-top:20px;padding-bottom:20px;}
+.navbar a{color:#D4E8FA;text-decoration:none;
+margin-left:5px;margin-right:5px;
+padding-top:5px;padding-left:10px;padding-right:10px}
+
+/*==-------------------------------------*/
+/*sub scription section*/
+.subsribe{padding:25px; 
+line-height:25px;}
+
+.subsribe input{padding:5px; 
+margin:5px;border:solid 2px lightblue;}
+.subscribe-r{float:left;}
+.subscribe-l{float:left;}
+
+/*==-------------------------------------*/
+.content{width:90%;height:400px;
+padding:20px;}
+.content-image1{width:60%;height:80%;
+background-image:url(topic1.jpg);
+background-size:cover;
+float:left;
+}
+
+.side-div{width:30%;height:90%;
+float:left;
+margin-left:15px;
+padding:20px;
+}
+.content-topic{	
+	color:red;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:20px;
+}
+
+.content-body{	
+	color:;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-size:18px;
+	margin-bottom:20px;
+}
+
+.read-more{	
+	color:#2cb6fa;
+	background-color: #051319 ;
+	text-decoration:none;
+	font-size:18px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:11px;
+	padding-bottom:11px;
+}
+.by-author{margin-top:10px;
+margin-bottom:10px;
+color:lightgray;}
+/*==-------------------------------------*/
+
+.footer{
+	
+	text-align:center;
+	color: #ffffff;
+	background-color:#01091f;
+	font-size:18px;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+
+/*
+sample banner css
+*/
+
+
